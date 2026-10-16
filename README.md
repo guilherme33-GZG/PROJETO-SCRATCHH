@@ -24,9 +24,9 @@ COMO JOGAR?
 
 Transformações:
 
-Tecla 1 → ? Diamante
-Tecla 2 → ? Quatro Braços
-Tecla 3 → ? Chama
+Tecla 1 → Diamante
+Tecla 2 → Quatro Braços
+Tecla 3 → Chama
 
 Voltar ao Ben 10
 
